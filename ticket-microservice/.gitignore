@@ -24,4 +24,13 @@ dist-ssr
 *.sln
 *.sw?
 
+
+satellogic-docs.html
 static/*
+
+
+# Ignore environment files
+
+
+# Ignore docker files
+
